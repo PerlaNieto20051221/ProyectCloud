@@ -1,6 +1,6 @@
 <!-- procesar_formulario.php -->
 <?php
-$servername = serproyect.mysql.database.azure.com;
+$servername = "serproyect.mysql.database.azure.com";
 $username = "AdminProyectos";
 $password = "PerlaNieto123*";
 $dbname = "dbproyecto2";
