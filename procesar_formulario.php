@@ -42,4 +42,4 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 $conn->close();
 ?>
 <br><br>
-<a href="index.html" class="button">Regresar</a>
+<a href="formulario.php" class="button">Regresar</a>
