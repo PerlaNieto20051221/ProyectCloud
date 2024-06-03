@@ -31,7 +31,7 @@ if ($result->num_rows > 0) {
 $conn->close();
 ?>
 <br><br>
-<a href="index.html" class="button">Regresar</a>
+<a href="formulario.php" class="button">Regresar</a>
 
 
 
